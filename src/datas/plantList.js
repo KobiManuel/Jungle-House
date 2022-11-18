@@ -1,4 +1,4 @@
-//import monstera from '../assets/monstera.jpg'
+import monstera from '../assets/monstera.jpg'
 
 export const plantList = [
 	{

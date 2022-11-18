@@ -9,9 +9,6 @@ function PlantItem({ id, cover, name, water, light }) {
 			<div>
 				<CareScale careType='water' scaleValue={water} />
 				<CareScale careType='light' scaleValue={light} />
-                <CareScale careType='light' scaleValue={id} />
-                <CareScale careType='light' scaleValue={cover} />
-                <CareScale careType='light' scaleValue={name} />
 			</div>
 		</li>
 	)
