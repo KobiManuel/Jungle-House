@@ -4,6 +4,7 @@ import Banner from './Banner'
 import Cart from './Cart'
 import ShoppingList from './ShoppingList'
 import CareScale from './CareScale'
+import QuestionForm from './QuestionForm'
 
  
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Cart />
     <ShoppingList />
     <CareScale />
+    <QuestionForm />
 </div>)
 }
  
